@@ -2449,7 +2449,7 @@ age = 14
 
 #Using json.dump() and json.load()
 
-import json
+#import json
 
 # numbers = [i for i in range(10)]
 # file_name = "numbers.txt"
